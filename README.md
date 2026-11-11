@@ -1,0 +1,1 @@
+# HairDay-Sistema-de-Agendamentos-com-React-TypeScript-IA
